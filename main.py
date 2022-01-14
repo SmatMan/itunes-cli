@@ -1,6 +1,6 @@
 # to use this file in ANY of your projects, public or private, you MUST credit me (github.com/smatman OR woaitsbren) in your README or description. Thank you!
 
-import win32com.client
+import win32com.client # pip install pywin32
 import api.Playlists
 import api.Player
 
